@@ -23,6 +23,8 @@ const Home: NextPage = () => {
           <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
+        <iframe src="https://www.rainbowkit.com/" height="200" width="300" />
+
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.tsx</code>
